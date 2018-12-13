@@ -1,0 +1,14 @@
+Examining "Date" category.
+
+
+==========================
+
+Num of true positives = 231
+
+Num of false positives = 298
+
+Num of false negatives = 251
+
+Sensitivity/Recall = 0.479
+
+PPV/Specificity = 0.494
