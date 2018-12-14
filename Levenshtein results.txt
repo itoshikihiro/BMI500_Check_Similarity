@@ -1,0 +1,1449 @@
+Parisa deid.py : Shaojun deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Parisa deid.py : Shaojun deid-Shaojun Yu.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6622267258095486
+distance: 6217
+ratio: 0.49563492063492065
+
+Parisa deid.py : FeverDreams deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6684480457968126
+distance: 5400
+ratio: 0.6632829908393166
+
+Parisa deid.py : FeverDreams deid_phone.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.822566622827735
+distance: 261
+ratio: 0.9741347227391143
+
+Parisa deid.py : Itoshikihiro deid-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Parisa deid.py : Itoshikihiro deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Parisa deid.py : Itoshikihiro deid-date-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6557711323609124
+distance: 2317
+ratio: 0.6839400428265524
+
+Parisa deid.py : Itoshikihiro deid-name-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7251300664288114
+distance: 2450
+ratio: 0.6850410722006053
+
+Parisa deid.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7288723120536037
+distance: 3611
+ratio: 0.6504225995583645
+
+Parisa deid.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Parisa deid.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7532462007044755
+distance: 2080
+ratio: 0.8198847262247838
+
+Parisa deid.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.779738456966431
+distance: 2053
+ratio: 0.7371695178849145
+
+Parisa deid.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7873682872182086
+distance: 1287
+ratio: 0.8806998939554613
+
+Parisa deid.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8231258743340041
+distance: 211
+ratio: 0.9756950837783097
+
+Parisa deid.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7991964384755024
+distance: 702
+ratio: 0.9272179918540818
+
+Parisa deid.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8142641234970611
+distance: 427
+ratio: 0.950575859254557
+
+Parisa deid.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5947612031278235
+distance: 14970
+ratio: 0.41918212151780865
+
+Parisa deid.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Parisa deid_Date_Parisa.py : Shaojun deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7322073315167268
+distance: 2398
+ratio: 0.8149387693009812
+
+Parisa deid_Date_Parisa.py : Shaojun deid-Shaojun Yu.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7237631068216985
+distance: 6303
+ratio: 0.49515287099179717
+
+Parisa deid_Date_Parisa.py : FeverDreams deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7367499790096219
+distance: 5355
+ratio: 0.6577508257079431
+
+Parisa deid_Date_Parisa.py : FeverDreams deid_phone.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7272623539456684
+distance: 2638
+ratio: 0.7939667713038818
+
+Parisa deid_Date_Parisa.py : Itoshikihiro deid-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7322073315167268
+distance: 2398
+ratio: 0.8149387693009812
+
+Parisa deid_Date_Parisa.py : Itoshikihiro deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7322073315167268
+distance: 2398
+ratio: 0.8149387693009812
+
+Parisa deid_Date_Parisa.py : Itoshikihiro deid-date-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5837053487892885
+distance: 4556
+ratio: 0.5521324980691668
+
+Parisa deid_Date_Parisa.py : Itoshikihiro deid-name-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6426224800866115
+distance: 4406
+ratio: 0.5817552961521834
+
+Parisa deid_Date_Parisa.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7612652290570937
+distance: 3969
+ratio: 0.6266994691182183
+
+Parisa deid_Date_Parisa.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7322073315167268
+distance: 2398
+ratio: 0.8149387693009812
+
+Parisa deid_Date_Parisa.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7908737317285306
+distance: 2574
+ratio: 0.7787909490037149
+
+Parisa deid_Date_Parisa.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7140789999533025
+distance: 3698
+ratio: 0.6609785563273936
+
+Parisa deid_Date_Parisa.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7089230082292618
+distance: 2789
+ratio: 0.7516325482427177
+
+Parisa deid_Date_Parisa.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7342713019060986
+distance: 2394
+ratio: 0.8124478178368122
+
+Parisa deid_Date_Parisa.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7271487077544735
+distance: 2429
+ratio: 0.7919453222606012
+
+Parisa deid_Date_Parisa.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7362675054664228
+distance: 2394
+ratio: 0.8026986506746626
+
+Parisa deid_Date_Parisa.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.623545294976766
+distance: 14776
+ratio: 0.43521914052764626
+
+Parisa deid_Date_Parisa.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7322073315167268
+distance: 2398
+ratio: 0.8149387693009812
+
+Parisa deid_Age_Parisa.py : Shaojun deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7243258176235227
+distance: 2638
+ratio: 0.796168811733014
+
+Parisa deid_Age_Parisa.py : Shaojun deid-Shaojun Yu.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7420013817826021
+distance: 6248
+ratio: 0.501756373937677
+
+Parisa deid_Age_Parisa.py : FeverDreams deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7389892685200682
+distance: 5165
+ratio: 0.6595311998287487
+
+Parisa deid_Age_Parisa.py : FeverDreams deid_phone.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7195949762116066
+distance: 2877
+ratio: 0.775116734447959
+
+Parisa deid_Age_Parisa.py : Itoshikihiro deid-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7243258176235227
+distance: 2638
+ratio: 0.796168811733014
+
+Parisa deid_Age_Parisa.py : Itoshikihiro deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7243258176235227
+distance: 2638
+ratio: 0.796168811733014
+
+Parisa deid_Age_Parisa.py : Itoshikihiro deid-date-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5723869285370724
+distance: 4791
+ratio: 0.535804549283909
+
+Parisa deid_Age_Parisa.py : Itoshikihiro deid-name-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6343294942401324
+distance: 4631
+ratio: 0.5693430656934306
+
+Parisa deid_Age_Parisa.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7590299153664958
+distance: 3979
+ratio: 0.6337227861840005
+
+Parisa deid_Age_Parisa.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7243258176235227
+distance: 2638
+ratio: 0.796168811733014
+
+Parisa deid_Age_Parisa.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7832572893510522
+distance: 2708
+ratio: 0.7639462122220743
+
+Parisa deid_Age_Parisa.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7116282243114193
+distance: 3868
+ratio: 0.657752024366689
+
+Parisa deid_Age_Parisa.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7016318793130444
+distance: 3015
+ratio: 0.7350859453993933
+
+Parisa deid_Age_Parisa.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7272199841071779
+distance: 2629
+ratio: 0.7955495818399044
+
+Parisa deid_Age_Parisa.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7194463696118539
+distance: 2639
+ratio: 0.7779224537037037
+
+Parisa deid_Age_Parisa.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7291634696614113
+distance: 2600
+ratio: 0.7920631408128642
+
+Parisa deid_Age_Parisa.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6245976809757386
+distance: 14610
+ratio: 0.44601469756924816
+
+Parisa deid_Age_Parisa.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7243258176235227
+distance: 2638
+ratio: 0.796168811733014
+
+Parisa deid_Location_Parisa.py : Shaojun deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6437365646226846
+distance: 5972
+ratio: 0.6351456893962151
+
+Parisa deid_Location_Parisa.py : Shaojun deid-Shaojun Yu.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7234994300222922
+distance: 7455
+ratio: 0.4926663800105107
+
+Parisa deid_Location_Parisa.py : FeverDreams deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7655451703892462
+distance: 6373
+ratio: 0.6265762279783311
+
+Parisa deid_Location_Parisa.py : FeverDreams deid_phone.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6401688216903018
+distance: 6187
+ratio: 0.6181532701250075
+
+Parisa deid_Location_Parisa.py : Itoshikihiro deid-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6437365646226846
+distance: 5972
+ratio: 0.6351456893962151
+
+Parisa deid_Location_Parisa.py : Itoshikihiro deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6437365646226846
+distance: 5972
+ratio: 0.6351456893962151
+
+Parisa deid_Location_Parisa.py : Itoshikihiro deid-date-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5295364901509254
+distance: 8121
+ratio: 0.41594614216883374
+
+Parisa deid_Location_Parisa.py : Itoshikihiro deid-name-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5901775270985143
+distance: 7886
+ratio: 0.4509061939852619
+
+Parisa deid_Location_Parisa.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6984485606975257
+distance: 6280
+ratio: 0.579075168918919
+
+Parisa deid_Location_Parisa.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6437365646226846
+distance: 5972
+ratio: 0.6351456893962151
+
+Parisa deid_Location_Parisa.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6950032392233699
+distance: 5486
+ratio: 0.6526798885428619
+
+Parisa deid_Location_Parisa.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6430648750237822
+distance: 6834
+ratio: 0.5479632063074902
+
+Parisa deid_Location_Parisa.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6186117818786692
+distance: 6213
+ratio: 0.5934489402697495
+
+Parisa deid_Location_Parisa.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.647447643781852
+distance: 5960
+ratio: 0.6351586397169076
+
+Parisa deid_Location_Parisa.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6349372362754272
+distance: 5903
+ratio: 0.625431160479392
+
+Parisa deid_Location_Parisa.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6470411874713099
+distance: 5921
+ratio: 0.6335669319396603
+
+Parisa deid_Location_Parisa.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6639069664685247
+distance: 13990
+ratio: 0.46123159727718854
+
+Parisa deid_Location_Parisa.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6437365646226846
+distance: 5972
+ratio: 0.6351456893962151
+
+Shaojun deid.py : FeverDreams deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6684480457968126
+distance: 5400
+ratio: 0.6632829908393166
+
+Shaojun deid.py : FeverDreams deid_phone.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.822566622827735
+distance: 261
+ratio: 0.9741347227391143
+
+Shaojun deid.py : Itoshikihiro deid-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Shaojun deid.py : Itoshikihiro deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Shaojun deid.py : Itoshikihiro deid-date-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6557711323609124
+distance: 2317
+ratio: 0.6839400428265524
+
+Shaojun deid.py : Itoshikihiro deid-name-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7251300664288114
+distance: 2450
+ratio: 0.6850410722006053
+
+Shaojun deid.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7288723120536037
+distance: 3611
+ratio: 0.6504225995583645
+
+Shaojun deid.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Shaojun deid.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7532462007044755
+distance: 2080
+ratio: 0.8198847262247838
+
+Shaojun deid.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.779738456966431
+distance: 2053
+ratio: 0.7371695178849145
+
+Shaojun deid.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7873682872182086
+distance: 1287
+ratio: 0.8806998939554613
+
+Shaojun deid.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8231258743340041
+distance: 211
+ratio: 0.9756950837783097
+
+Shaojun deid.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7991964384755024
+distance: 702
+ratio: 0.9272179918540818
+
+Shaojun deid.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8142641234970611
+distance: 427
+ratio: 0.950575859254557
+
+Shaojun deid.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5947612031278235
+distance: 14970
+ratio: 0.41918212151780865
+
+Shaojun deid.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Shaojun deid-Shaojun Yu.py : FeverDreams deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7124344572682443
+distance: 7468
+ratio: 0.4725565013208101
+
+Shaojun deid-Shaojun Yu.py : FeverDreams deid_phone.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6567340587947946
+distance: 6251
+ratio: 0.4920846082213649
+
+Shaojun deid-Shaojun Yu.py : Itoshikihiro deid-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6622267258095486
+distance: 6217
+ratio: 0.49563492063492065
+
+Shaojun deid-Shaojun Yu.py : Itoshikihiro deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6622267258095486
+distance: 6217
+ratio: 0.49563492063492065
+
+Shaojun deid-Shaojun Yu.py : Itoshikihiro deid-date-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5727770920659783
+distance: 6961
+ratio: 0.41611624834874505
+
+Shaojun deid-Shaojun Yu.py : Itoshikihiro deid-name-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6137336138928172
+distance: 6695
+ratio: 0.45797015807357067
+
+Shaojun deid-Shaojun Yu.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7306528551812068
+distance: 6176
+ratio: 0.49520638383374477
+
+Shaojun deid-Shaojun Yu.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6622267258095486
+distance: 6217
+ratio: 0.49563492063492065
+
+Shaojun deid-Shaojun Yu.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7248433566644152
+distance: 6140
+ratio: 0.5056621766599118
+
+Shaojun deid-Shaojun Yu.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.676308203734497
+distance: 6059
+ratio: 0.5121903134652034
+
+Shaojun deid-Shaojun Yu.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.660990082325941
+distance: 6312
+ratio: 0.47660556338930904
+
+Shaojun deid-Shaojun Yu.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6646610308045853
+distance: 6233
+ratio: 0.49471877475574333
+
+Shaojun deid-Shaojun Yu.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6736615772550122
+distance: 6318
+ratio: 0.48292682926829267
+
+Shaojun deid-Shaojun Yu.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6694987258141047
+distance: 6264
+ratio: 0.49030235747404166
+
+Shaojun deid-Shaojun Yu.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6073715186342309
+distance: 14620
+ratio: 0.4179640718562874
+
+Shaojun deid-Shaojun Yu.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6622267258095486
+distance: 6217
+ratio: 0.49563492063492065
+
+FeverDreams deid.py : Itoshikihiro deid-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6684480457968126
+distance: 5400
+ratio: 0.6632829908393166
+
+FeverDreams deid.py : Itoshikihiro deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6684480457968126
+distance: 5400
+ratio: 0.6632829908393166
+
+FeverDreams deid.py : Itoshikihiro deid-date-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.609015309758357
+distance: 7108
+ratio: 0.5066157413722548
+
+FeverDreams deid.py : Itoshikihiro deid-name-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.605252252532336
+distance: 7667
+ratio: 0.44119665157129134
+
+FeverDreams deid.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7000749155711296
+distance: 6385
+ratio: 0.5432674072067191
+
+FeverDreams deid.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6684480457968126
+distance: 5400
+ratio: 0.6632829908393166
+
+FeverDreams deid.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7144974163880845
+distance: 5406
+ratio: 0.6406197372852812
+
+FeverDreams deid.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6466321019112898
+distance: 6771
+ratio: 0.5293791915338707
+
+FeverDreams deid.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6590157499549273
+distance: 6048
+ratio: 0.6147373482389711
+
+FeverDreams deid.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6691917126632388
+distance: 5475
+ratio: 0.6543499752842313
+
+FeverDreams deid.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6729055762370497
+distance: 5565
+ratio: 0.6462445835339432
+
+FeverDreams deid.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6728284776142273
+distance: 5506
+ratio: 0.6462780598201725
+
+FeverDreams deid.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6602505669234963
+distance: 11383
+ratio: 0.6153202984306663
+
+FeverDreams deid.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6684480457968126
+distance: 5400
+ratio: 0.6632829908393166
+
+FeverDreams deid_phone.py : Itoshikihiro deid-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.822566622827735
+distance: 261
+ratio: 0.9741347227391143
+
+FeverDreams deid_phone.py : Itoshikihiro deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.822566622827735
+distance: 261
+ratio: 0.9741347227391143
+
+FeverDreams deid_phone.py : Itoshikihiro deid-date-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6593279276576074
+distance: 2496
+ratio: 0.6576615517614005
+
+FeverDreams deid_phone.py : Itoshikihiro deid-name-Jie.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.72880103895691
+distance: 2485
+ratio: 0.6757582369626882
+
+FeverDreams deid_phone.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7244322067261076
+distance: 3781
+ratio: 0.6330957308193454
+
+FeverDreams deid_phone.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.822566622827735
+distance: 261
+ratio: 0.9741347227391143
+
+FeverDreams deid_phone.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7477074996913037
+distance: 2270
+ratio: 0.8025149121392875
+
+FeverDreams deid_phone.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7763666382428639
+distance: 2247
+ratio: 0.7131396957123098
+
+FeverDreams deid_phone.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7794423204248448
+distance: 1509
+ratio: 0.8577025823686554
+
+FeverDreams deid_phone.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8088390049312494
+distance: 468
+ratio: 0.9497030438010393
+
+FeverDreams deid_phone.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7865465859811686
+distance: 918
+ratio: 0.9057815845824411
+
+FeverDreams deid_phone.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8010374003352917
+distance: 683
+ratio: 0.9251439539347409
+
+FeverDreams deid_phone.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5867514442377398
+distance: 15168
+ratio: 0.4089068825910931
+
+FeverDreams deid_phone.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.822566622827735
+distance: 261
+ratio: 0.9741347227391143
+
+Itoshikihiro deid-Jie.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7288723120536037
+distance: 3611
+ratio: 0.6504225995583645
+
+Itoshikihiro deid-Jie.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Itoshikihiro deid-Jie.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7532462007044755
+distance: 2080
+ratio: 0.8198847262247838
+
+Itoshikihiro deid-Jie.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.779738456966431
+distance: 2053
+ratio: 0.7371695178849145
+
+Itoshikihiro deid-Jie.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7873682872182086
+distance: 1287
+ratio: 0.8806998939554613
+
+Itoshikihiro deid-Jie.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8231258743340041
+distance: 211
+ratio: 0.9756950837783097
+
+Itoshikihiro deid-Jie.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7991964384755024
+distance: 702
+ratio: 0.9272179918540818
+
+Itoshikihiro deid-Jie.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8142641234970611
+distance: 427
+ratio: 0.950575859254557
+
+Itoshikihiro deid-Jie.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5947612031278235
+distance: 14970
+ratio: 0.41918212151780865
+
+Itoshikihiro deid-Jie.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Itoshikihiro deid.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7288723120536037
+distance: 3611
+ratio: 0.6504225995583645
+
+Itoshikihiro deid.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Itoshikihiro deid.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7532462007044755
+distance: 2080
+ratio: 0.8198847262247838
+
+Itoshikihiro deid.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.779738456966431
+distance: 2053
+ratio: 0.7371695178849145
+
+Itoshikihiro deid.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7873682872182086
+distance: 1287
+ratio: 0.8806998939554613
+
+Itoshikihiro deid.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8231258743340041
+distance: 211
+ratio: 0.9756950837783097
+
+Itoshikihiro deid.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7991964384755024
+distance: 702
+ratio: 0.9272179918540818
+
+Itoshikihiro deid.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8142641234970611
+distance: 427
+ratio: 0.950575859254557
+
+Itoshikihiro deid.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5947612031278235
+distance: 14970
+ratio: 0.41918212151780865
+
+Itoshikihiro deid.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Itoshikihiro deid-date-Jie.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5834987388663261
+distance: 5070
+ratio: 0.4723773520061861
+
+Itoshikihiro deid-date-Jie.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6557711323609124
+distance: 2317
+ratio: 0.6839400428265524
+
+Itoshikihiro deid-date-Jie.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.599676605908865
+distance: 4092
+ratio: 0.5566466630296417
+
+Itoshikihiro deid-date-Jie.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6548455298038197
+distance: 3123
+ratio: 0.5599237045671294
+
+Itoshikihiro deid-date-Jie.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6721955902223019
+distance: 2696
+ratio: 0.6760333944206882
+
+Itoshikihiro deid-date-Jie.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6516199526483168
+distance: 2361
+ratio: 0.6767719897523484
+
+Itoshikihiro deid-date-Jie.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6731968568452693
+distance: 2709
+ratio: 0.6712244897959184
+
+Itoshikihiro deid-date-Jie.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6593629096943436
+distance: 2477
+ratio: 0.6734501206335886
+
+Itoshikihiro deid-date-Jie.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5057462566712471
+distance: 17175
+ratio: 0.264168039538715
+
+Itoshikihiro deid-date-Jie.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6557711323609124
+distance: 2317
+ratio: 0.6839400428265524
+
+Itoshikihiro deid-name-Jie.py : Nasim de-id-location.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6466414665495342
+distance: 4919
+ratio: 0.5007358670245
+
+Itoshikihiro deid-name-Jie.py : Nasim deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7251300664288114
+distance: 2450
+ratio: 0.6850410722006053
+
+Itoshikihiro deid-name-Jie.py : Nasim de-id-date.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6621100984577832
+distance: 4014
+ratio: 0.5767186067827681
+
+Itoshikihiro deid-name-Jie.py : Nasim de-id-age.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7237136582012825
+distance: 2995
+ratio: 0.5820943416408172
+
+Itoshikihiro deid-name-Jie.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7007765437113408
+distance: 2942
+ratio: 0.6420793096363263
+
+Itoshikihiro deid-name-Jie.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.723291008331523
+distance: 2484
+ratio: 0.6818965517241379
+
+Itoshikihiro deid-name-Jie.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.703185806363572
+distance: 2923
+ratio: 0.6497116968698518
+
+Itoshikihiro deid-name-Jie.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7195861618718049
+distance: 2624
+ratio: 0.6727368978295395
+
+Itoshikihiro deid-name-Jie.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5551738091376321
+distance: 16838
+ratio: 0.29224537037037035
+
+Itoshikihiro deid-name-Jie.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7251300664288114
+distance: 2450
+ratio: 0.6850410722006053
+
+Nasim de-id-location.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7047714451423163
+distance: 3828
+ratio: 0.6178479618068307
+
+Nasim de-id-location.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7314117229024557
+distance: 3620
+ratio: 0.647215257199301
+
+Nasim de-id-location.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7220739788810301
+distance: 3710
+ratio: 0.6282645479290812
+
+Nasim de-id-location.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7325388852011249
+distance: 3607
+ratio: 0.6431037070388714
+
+Nasim de-id-location.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5964311285440955
+distance: 15296
+ratio: 0.38221778933494815
+
+Nasim de-id-location.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7288723120536037
+distance: 3611
+ratio: 0.6504225995583645
+
+Nasim deid.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7873682872182086
+distance: 1287
+ratio: 0.8806998939554613
+
+Nasim deid.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8231258743340041
+distance: 211
+ratio: 0.9756950837783097
+
+Nasim deid.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7991964384755024
+distance: 702
+ratio: 0.9272179918540818
+
+Nasim deid.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8142641234970611
+distance: 427
+ratio: 0.950575859254557
+
+Nasim deid.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5947612031278235
+distance: 14970
+ratio: 0.41918212151780865
+
+Nasim deid.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 1.0
+distance: 0
+ratio: 1.0
+
+Nasim de-id-date.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7324080950103764
+distance: 2606
+ratio: 0.7599815014644674
+
+Nasim de-id-date.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.755697263461831
+distance: 2055
+ratio: 0.818849840255591
+
+Nasim de-id-date.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7502499723558853
+distance: 2183
+ratio: 0.7896849907350216
+
+Nasim de-id-date.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7573211946021731
+distance: 2103
+ratio: 0.8048876625936146
+
+Nasim de-id-date.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.6095559054011043
+distance: 15158
+ratio: 0.4195829687955672
+
+Nasim de-id-date.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7532462007044755
+distance: 2080
+ratio: 0.8198847262247838
+
+Nasim de-id-age.py : Andre deid-Andre_Holder.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7644899028373094
+distance: 2576
+ratio: 0.6962236046613511
+
+Nasim de-id-age.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7806685253695465
+distance: 2126
+ratio: 0.7290811205401952
+
+Nasim de-id-age.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.768758933176998
+distance: 2479
+ratio: 0.7000263365815117
+
+Nasim de-id-age.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7819688398610026
+distance: 2250
+ratio: 0.7209636821287306
+
+Nasim de-id-age.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5679697031819618
+distance: 16013
+ratio: 0.3486529318541997
+
+Nasim de-id-age.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.779738456966431
+distance: 2053
+ratio: 0.7371695178849145
+
+Andre deid-Andre_Holder.py : Mahmoud deid_ssn_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7840895490604356
+distance: 1252
+ratio: 0.8802891396332864
+
+Andre deid-Andre_Holder.py : Mahmoud deid_date_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7980585540212525
+distance: 1276
+ratio: 0.8712635869565217
+
+Andre deid-Andre_Holder.py : Mahmoud deid_age_mahmoud.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7872139751164751
+distance: 1260
+ratio: 0.8707967677469807
+
+Andre deid-Andre_Holder.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5616178186306954
+distance: 15731
+ratio: 0.38033211456429006
+
+Andre deid-Andre_Holder.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7873682872182086
+distance: 1287
+ratio: 0.8806998939554613
+
+Mahmoud deid_ssn_mahmoud.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5888555109093102
+distance: 15171
+ratio: 0.41027827300209285
+
+Mahmoud deid_ssn_mahmoud.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8231258743340041
+distance: 211
+ratio: 0.9756950837783097
+
+Mahmoud deid_date_mahmoud.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5740885489860531
+distance: 15654
+ratio: 0.399252877944652
+
+Mahmoud deid_date_mahmoud.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.7991964384755024
+distance: 702
+ratio: 0.9272179918540818
+
+Mahmoud deid_age_mahmoud.py : ChenLin deid-ChenLin.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.5867488786590064
+distance: 15387
+ratio: 0.4032040667000424
+
+Mahmoud deid_age_mahmoud.py : ChenLin deid.py
+
+The similarity results tested by Levenshtein are following:
+jaro: 0.8142641234970611
+distance: 427
+ratio: 0.950575859254557
+
