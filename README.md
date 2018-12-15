@@ -19,7 +19,11 @@ Please go to the project directory, which contains a bin folder and type the fol
 # How to run
 Pleaes type the following command in your console:
 - Jupyter notebook
+- browse Similarity_checher.ipynb in the opened browser
+- running all code blocks in order
+
 
 # Exit the project
 Please type the following command in your console:
-- deactivate
+- close the browser
+- type "deactivate" in your console
